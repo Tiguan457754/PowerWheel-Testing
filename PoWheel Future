@@ -1,0 +1,18 @@
+Engine Modules planned:
+Linux Connection Module: for connecting with linux systems in terms of sensors.
+Windows Connection Module: for connecting with windows systems in terms of sensors.
+Startup Module:a module that can start things in order
+Debug Module:a module for debugging the engine itself and seeing what is it doing
+Mathematical Module:a built in calculation module
+Variable Module:a module that can store variables
+Meta Module:a module that can store metadata
+In/Out Module:a module providing inputs and outputs of the engine
+Core Module:the module that makes the engine work together,it reads the configuration file.
+
+Other planned changes:
+Improving error handle
+Improving safety
+Improving Implementation
+Real Documentation
+
+It also might go under code refabrication but not so soon.
