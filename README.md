@@ -1,20 +1,2 @@
-# The PowerWheel Engine
-This is the PowerWheel engine repository.
-The PowerWheel engine is a great upcoming engine written in C++ designed as a library like base to complex and less complex packages on it.
-You can easilly add your own modules to it.
-You can disable every module in the configuration file
-
-
-Core parts (can't be disabled):
-PowerWheel API-the interface connecting everything together.
-PowerWheel Core-basic functionality like reading the config file and disabling modules.
-Main-provides a start and an end to the code.
-
-
-Document planned features:
-Mathematical Module-   a module providing a calculation feature.
-Variable Module-   a module providing variable storage.
-Meta Module-   a module providing metadata storage.
-In/Out Module-   this module won't serve any purpose yet,purpose show up,it will be like a place holder for now.
-Linux Connection Module-   a module providing connections and data parrasing from the linux system.
-Windows Connection Module-  a module providing connections and data parrasing from the windows system.
+# A repository for contributing collaborators for The PowerWheel Engine Project
+Just for merging and pull requests.
