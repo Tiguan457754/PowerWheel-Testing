@@ -15,6 +15,6 @@ Document planned features:
 Mathematical Module-   a module providing a calculation feature.
 Variable Module-   a module providing variable storage.
 Meta Module-   a module providing metadata storage.
-In/Out Module-   this module won't serve any purpose yet.
+In/Out Module-   this module won't serve any purpose yet,purpose show up,it will be like a place holder for now.
 Linux Connection Module-   a module providing connections and data parrasing from the linux system.
 Windows Connection Module-  a module providing connections and data parrasing from the windows system.
