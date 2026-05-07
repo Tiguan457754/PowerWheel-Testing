@@ -1,6 +1,6 @@
 # The PowerWheel Engine
 This is the PowerWheel engine repository.
-The PowerWheel engine is a great upcoming engine designed as a library like base to complex and less complex packages on it.
+The PowerWheel engine is a great upcoming engine written in C++ designed as a library like base to complex and less complex packages on it.
 You can easilly add your own modules to it.
 You can disable every module in the configuration file
 
